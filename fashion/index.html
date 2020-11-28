@@ -2,9 +2,5 @@
 layout: category
 title: Fashion
 summary: Please enjoy my FASHUNS!!
+category_name: fashion
 ---
-<ul class="posts">
-{% for post in site.categories.fashion %}
-    <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
