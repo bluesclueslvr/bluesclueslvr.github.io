@@ -3,8 +3,8 @@ layout: post
 title: Creating a New Post
 categories: flections tech
 ---
-Copy (from an old post)
-Paste (into POSTS folder)
-Rename (with correct date format)
-When ready to type in the post-make sure to change title and category (if needed)
-When using multiple categories, you need a SPACE not a COMMA
+1. Copy (from an old post)
+2. Paste (into POSTS folder)
+3. Rename (with correct date format)
+4. When ready to type in the post-make sure to change title and category (if needed)
+5. When using multiple categories, you need a SPACE not a COMMA
