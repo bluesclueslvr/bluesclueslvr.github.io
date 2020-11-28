@@ -1,26 +1,10 @@
 ---
+layout: category
+title: Fitness
+summary: My journey to health, fitness and weightloss.
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-Lyfe with Regyna
-</title>
-<link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/index.css">
-</head>
-<body>
-<h1>
-Fitness
-</h1>
-<p>
-My journey to health, fitness and weightloss.
-</p>
 <ul class="posts">
-    {% for post in site.categories.fitness %}
-        <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-    
-</body>
-</html>
+{% for post in site.categories.fitness %}
+    <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

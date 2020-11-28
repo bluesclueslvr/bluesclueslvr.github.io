@@ -1,25 +1,10 @@
 ---
+layout: category
+title: Food
+summary: Welcome to all my meal preps for myself, friends and family.
 ---
-<!doctype html>
-<html>
-    <head>
-        <title>
-            Lyfe with Regyna
-        </title>
-        <link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/index.css">
-    </head>
-<body>
-    <h1>
-        Food
-    </h1>
-    <p>
-        Welcome to all my meal preps for myself, friends and family.
-    </p>
-    <ul class="posts">
-        {% for post in site.categories.food %}
-            <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-        </ul>
-</body>
-</html>
+<ul class="posts">
+{% for post in site.categories.food %}
+    <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
