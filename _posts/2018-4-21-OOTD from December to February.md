@@ -4,7 +4,7 @@ date: 2018-04-21T11:25:00.001-07:00
 draft: false
 aliases: [ "/2018/04/ootd-from-december-to-february.html" ]
 tags : [OOTD, Work]
-categories: fashions
+categories: fashion
 ---
 
 So for Ss and Gs I am going to clear up the pics on my phone and post all my outfits from working at the mortgage company, until starting at my new job.  Then I will get back on proper track.  

@@ -4,7 +4,7 @@ date: 2018-04-21T11:25:00.004-07:00
 draft: false
 aliases: [ "/2018/04/new-job-ootd-march.html" ]
 tags : [OOTD, Work]
-categories: fashions
+categories: fashion
 ---
 
 I started my new job February 5th, but I didn't take one single pic of my outfits.  
