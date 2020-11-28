@@ -4,6 +4,7 @@ date: 2017-05-24T10:53:00.002-07:00
 draft: false
 aliases: [ "/2017/05/chance-rapper.html" ]
 tags : [Fun]
+categories: flections
 ---
 
 We went to see Chance the Rapper 4/27 at Golden 1 Center.  His tickets were so reasonably priced, the only issue I have is with fees Golden 1 charges.  $25 extra per ticket...that was half the price of the ticket.  But other than that, pretty good.  

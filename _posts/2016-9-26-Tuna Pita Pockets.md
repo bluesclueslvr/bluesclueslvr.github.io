@@ -4,6 +4,7 @@ date: 2016-09-26T23:05:00.001-07:00
 draft: false
 aliases: [ "/2016/09/tuna-pita-pockets.html" ]
 tags : [Food Prep]
+categories: food
 ---
 
 This post is SUPER late, but it is going up.  I am going to cram this site full of delayed postings just in time to catch up for the current and last week of September. Man, time is flying, but it also means Halloween is coming.  And if you know me, then you know I am excited.  

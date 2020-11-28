@@ -4,6 +4,7 @@ date: 2016-10-25T14:24:00.000-07:00
 draft: false
 aliases: [ "/2016/10/paint-nite.html" ]
 tags : [Fun]
+categories: flections
 ---
 
 Have you ever done a paint nite event?  They are so fun.  You get to meet at a location it's usually a restaurant or bar that is sectioned off specifically for the event and learn to paint.  [Groupon](https://www.groupon.com/deals/paint-nite-7-96-sacramento?utm_source=google&utm_medium=cpc&utm_campaign=us_dt_sea_ggl_txt_ttt_sr_cbp_ch1_nbr_k*paint%20nite_m*e_d*sacramento-RTC-Root_g*RTC-paint-nite-7-96-sacramento-EXACT_c*153257627250_ap*1t1_t*aud-57682250989:kwd-39905503576&loc_physical_ms=9032525&loc_interest_ms=) usually offers a good deal because truthfully without Groupon it is crazy expensive.  Paint Nite is not the only option, there is a location in [Folsom](http://gopalladio.com/shopping/store/painted) that is really nice.  There are quite a few options.  This is the most recent portrait I did.  And I must say I was very pleased with the end results.  I also have some other pics I've done posted.  We are going this Sunday, for my mother's early bday.  The only thing that is no good, is when looking for a cool pic during the month of December (which is her real birth month) they are all holiday related.  No one wants a snowman.  She loves [butterflies](https://www.paintnite.com/events/1107978.html), so we found a pretty cool one that looks easy as heck.  

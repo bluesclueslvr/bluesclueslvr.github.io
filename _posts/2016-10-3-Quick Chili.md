@@ -4,6 +4,7 @@ date: 2016-10-03T23:43:00.001-07:00
 draft: false
 aliases: [ "/2016/10/quick-chili.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This week (9/26-9/29) we had chili. (9/30 was our end of the month lunch and they served lasagna and salad.  The salad was bomb, the lasagna was salty as heck). This isn't the kind of chili that most people think of. This is more like a Mexican dish. I don't like sauce and liquid in my soups/stews/chilis so I drain everything. It was tasty and filling.  In the chili I used, red onion, mushrooms, green bell pepper, diced tomatoes, ground turkey and the frozen chili brick by Johnsons.  I seasoned it with chili powder, poultry seasoning, garlic, white pepper and paprika. I don't use salt in my food anymore because I am dealing with ankle swelling from too much sodium. It was all topped with 4 cheese fiesta blend when it was time to eat. I like mine with cheezits, the girls had saltines since that is more what is served with a chili. Enjoy the pics.  

@@ -4,6 +4,7 @@ date: 2016-09-26T23:30:00.001-07:00
 draft: false
 aliases: [ "/2016/09/southwestern-salad.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 Are you noticing a theme with the food prepping.  These past two weeks have been salads or salad like.  This is the last salad for September, which is good becuase I am sick of salads.  

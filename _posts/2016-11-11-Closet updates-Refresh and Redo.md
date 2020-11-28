@@ -4,6 +4,7 @@ date: 2016-11-11T10:55:00.000-08:00
 draft: false
 aliases: [ "/2016/11/closet-updates-refresh-and-redo.html" ]
 tags : [Fun]
+categories: flections
 ---
 
 I have a spare second bedroom that is a walk in closet.  It has been my dream to have a walk in and I love it.  I am obsessed with youtube video closet tours and have bitten by the redo bug.  

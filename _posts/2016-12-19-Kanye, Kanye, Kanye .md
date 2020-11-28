@@ -4,6 +4,7 @@ date: 2016-12-19T15:16:00.000-08:00
 draft: false
 aliases: [ "/2016/12/kanye-kanye-kanye.html" ]
 tags : [Fun]
+categories: flections
 ---
 
 Read the title in [Sway's](https://www.youtube.com/watch?v=S78tT_YxF_c) voice.  

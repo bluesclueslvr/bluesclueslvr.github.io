@@ -4,6 +4,7 @@ date: 2016-04-25T02:59:00.004-07:00
 draft: false
 aliases: [ "/2016/04/rookie-cross-fit.html" ]
 tags : [Workout]
+categories: fitness
 ---
 
   

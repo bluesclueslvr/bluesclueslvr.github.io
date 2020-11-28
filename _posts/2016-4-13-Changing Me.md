@@ -4,6 +4,7 @@ date: 2016-04-13T21:58:00.001-07:00
 draft: false
 aliases: [ "/2016/04/changing-me.html" ]
 tags : [Health]
+categories: fitness
 ---
 
 I have been going through the process of life changes. I am working at bettering myself to be the person I've always envisioned. And with that comes a lot of stress, tears, laughs and need for constant self motivation.  

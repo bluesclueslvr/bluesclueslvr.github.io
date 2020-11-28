@@ -4,6 +4,7 @@ date: 2016-05-23T23:32:00.002-07:00
 draft: false
 aliases: [ "/2016/05/ootw-may-week-2.html" ]
 tags : [OOTD]
+categories: fashion
 ---
 
 I am back with an outfit of the week post.  I unfortunately missed the first week of May, but I at least have week 2.  

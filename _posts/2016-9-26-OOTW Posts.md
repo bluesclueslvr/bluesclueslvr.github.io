@@ -4,6 +4,7 @@ date: 2016-09-26T23:36:00.001-07:00
 draft: false
 aliases: [ "/2016/09/ootw-posts.html" ]
 tags : [OOTD]
+categories: fashion
 ---
 
 I had taken some pics of my outfits over the last month, but didn't finish one of the previous weeks, but never fear, I have one week worth of goodies.  They are bathroom selfies in our mirror at work, cause it's a nice ass mirror.  There was an intentional color theme for the week as I always like to do.  

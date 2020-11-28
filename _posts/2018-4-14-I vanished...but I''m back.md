@@ -4,6 +4,7 @@ date: 2018-04-14T11:40:00.001-07:00
 draft: false
 aliases: [ "/2018/04/i-vanishedbut-im-back.html" ]
 tags : [Food Prep, Fun, OOTD, Workout, Work]
+categories: flections
 ---
 
 Well ya girl is back.  I was working for a mortgage company back in December and they changed their settings for internet and I couldn't post to my blog at work.  I know, sad.  That was my best time to get blog posts done at work.  Now I have to start fresh with the new year at home.  

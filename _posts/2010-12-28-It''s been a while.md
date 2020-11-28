@@ -4,6 +4,7 @@ date: 2010-12-28T01:12:00.000-08:00
 draft: false
 aliases: [ "/2010/12/its-been-while.html" ]
 tags : [School]
+categories: flections
 ---
 
 So I haven't posted, apparently since August.  I need to start that up again. I have a few things in my life that are constant post worthy issues. Work, Health, Money and Friendship...today most important are work and health.  

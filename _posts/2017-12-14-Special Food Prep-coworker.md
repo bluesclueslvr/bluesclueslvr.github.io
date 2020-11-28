@@ -4,6 +4,7 @@ date: 2017-12-14T16:59:00.001-08:00
 draft: false
 aliases: [ "/2017/12/special-food-prep-coworker.html" ]
 tags : [Food Prep]
+categories: food
 ---
 
 A co-worker wanted me to food prep to prepare for her vacation to Jamaica.  She waited until the last minute, but I love food prep and was happy to help her along.  It's nice to not have to think about what's for lunch and let someone else do the work for you.  

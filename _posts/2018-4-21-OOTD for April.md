@@ -4,6 +4,7 @@ date: 2018-04-21T11:24:00.000-07:00
 draft: false
 aliases: [ "/2018/04/ootd-for-april.html" ]
 tags : [OOTD, Work]
+categories: fashions
 ---
 
 Month of April

@@ -4,6 +4,7 @@ date: 2016-10-25T11:20:00.002-07:00
 draft: false
 aliases: [ "/2016/10/juicing-with-jack-lalanne.html" ]
 tags : [OOTD]
+categories: food  
 ---
 
 Ahhhh, let me tell you how much I enjoy juicing.  It is a satisfaction that I can't even begin to explain. Prepping the fruits and veggies and coming up with flavor combinations is the most fun.  I love looking up new recipes for combinations I would not even actually think of.  Right now I really like red cabbage in most of my juices.  It has an interesting aftertaste but it really adds a sweetness to most juices.  I have also enjoyed beets in most of my juices so I try to incorporate them as much as possible,  

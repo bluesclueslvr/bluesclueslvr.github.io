@@ -4,6 +4,7 @@ date: 2017-11-01T17:05:00.001-07:00
 draft: false
 aliases: [ "/2017/11/halloween-nudytudy-unicorn.html" ]
 tags : [Fun, Health]
+categories: flections
 ---
 
 If you know me, then you know I love a good Halloween costume.  I live for the month of October, this is my Christmas!  Second favorite time of the year aside from my bday...which should be a holiday but I digress.  

@@ -4,6 +4,7 @@ date: 2016-11-02T10:28:00.002-07:00
 draft: false
 aliases: [ "/2016/11/chicken-pesto-and-asparagus.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This week we went healthy and decided on chicken with pesto.  Shi Shi found a recipe, but it uses green beans.  I hate green beans, so we opted for asparagus.  It is only about 220 calories for this whole meal and is actually pretty filling.  We were supposed to have potatoes with it, but I forgot.  Oh well, even better for us without the added carbs.  

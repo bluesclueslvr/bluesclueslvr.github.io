@@ -4,6 +4,7 @@ date: 2016-10-25T11:13:00.004-07:00
 draft: false
 aliases: [ "/2016/10/lentil-daal.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This week we wanted to try something different for lunch. I follow this [YouTuber](http://thedomesticgeek.com/), The Domestic Geek. She has e-books with menu and recipe ideas that will be more than likely attempting many of. I chose the Lentil Daal. The funny thing about my choosing is that she posted the menu item this week as well. It's meant to be.  

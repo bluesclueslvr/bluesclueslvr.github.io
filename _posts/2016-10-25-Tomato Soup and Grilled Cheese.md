@@ -4,6 +4,7 @@ date: 2016-10-25T14:07:00.000-07:00
 draft: false
 aliases: [ "/2016/10/tomato-soup-and-grilled-cheese.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This is the long awaited soup and grilled cheese week.  This meal has been decided since the start of October.  We waited until the end of the month because we knew it was going to be cooler and worth the warm food.  Technically, it is always cold in this office, so anything warm is welcome.  But we have had this planned and are ready to eat!  Shi-Shi and I don't care to eat the tomato soup, really it is for dipping.  Deborah, likes tomato soup, so she got the bulk of it.  I have never made tomato soup so I was a tiny bit nervous.  Thanks [Domestic Geek](http://thedomesticgeek.com/)!  I have been saving my pulp from my juicing for my meals that I want to make, this way I don't waste and I get all the veggies already chopped and ready to go.  I froze my carrot and celery pulp and used that in my crock pot.  

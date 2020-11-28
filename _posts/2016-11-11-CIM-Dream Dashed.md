@@ -4,6 +4,7 @@ date: 2016-11-11T10:04:00.001-08:00
 draft: false
 aliases: [ "/2016/11/cim-dream-dashed.html" ]
 tags : [Running]
+categories: fitness
 ---
 
   

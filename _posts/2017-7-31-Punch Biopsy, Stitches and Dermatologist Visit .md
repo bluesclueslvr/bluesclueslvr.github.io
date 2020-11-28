@@ -4,6 +4,7 @@ date: 2017-07-31T12:37:00.003-07:00
 draft: false
 aliases: [ "/2017/07/punch-biopsy-stitches-and-dermatologist.html" ]
 tags : [Workout, Health]
+categories: flections
 ---
 
 On Friday 7/28-I went to my first ever dermatologist.  I was referred by my doctor for a weird cluster of marks on my ankle.  The doctor had no clue what it is and sent me to the dermatologist.  When I get there, the dermatologist also didn't know what is on my ankle and decided I needed a biopsy. This strange marking basically appeared over time.  It went from what I thought was a pinch from a buckle on my shoe, to a cluster of dark marks.  They don't hurt, they don't itch and they aren't raised.  They look like a a bunch of blood blisters to be honest.  My concern is that they are spreading on my ankle, rather than going away over time.  

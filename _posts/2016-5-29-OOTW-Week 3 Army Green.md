@@ -4,6 +4,7 @@ date: 2016-05-29T17:17:00.001-07:00
 draft: false
 aliases: [ "/2016/05/this-week-was-green.html" ]
 tags : [OOTD]
+categories: fashion
 ---
 
 This week was green.  Close to an army green.  We lucked out and had casual week for the last two days!

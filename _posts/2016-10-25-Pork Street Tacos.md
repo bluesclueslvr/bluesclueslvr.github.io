@@ -4,6 +4,7 @@ date: 2016-10-25T11:56:00.001-07:00
 draft: false
 aliases: [ "/2016/10/pork-street-tacos.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This week we decided on pork tacos.  I had the seasonings left from the Daal last week and wanted to use them.  They are not a normal set of seasonings that I would cook with so I wanted to hurry and use them.  I used mini flour tortillas, pork loin, pico de gallo, crema and Mexican 4 cheese blend.  

@@ -4,6 +4,7 @@ date: 2016-11-09T14:37:00.001-08:00
 draft: false
 aliases: [ "/2016/11/slow-cooker-mexican-quinoa.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This week is another healthier meal.  We are really trying to take the eating healthy options seriously.  It is important that we make our lunches as nice as can be but still save unnecessary calories.  

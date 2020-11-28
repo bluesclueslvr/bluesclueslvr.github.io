@@ -4,6 +4,7 @@ date: 2016-10-04T00:00:00.000-07:00
 draft: false
 aliases: [ "/2016/10/graduation.html" ]
 tags : [School]
+categories: flections
 ---
 
 I did it! I have officially completed my masters degree. It is cool to think about the accomplishment. I always knew this was something I wanted to do, I never thought it would take me nearly 10 years after my bachelors to complete. I always had a different plan in my head. I have learned that life doesn't go as planned all the time and to let it happen as it may. I am proud of my accomplishments and look forward to what this degree will land me in the near future. I'm definitely ready to start my actual career and stop messing around with these entry level jobs. But at the same time I like the ease of where I work.  

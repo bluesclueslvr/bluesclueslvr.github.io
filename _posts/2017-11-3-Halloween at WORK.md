@@ -4,6 +4,7 @@ date: 2017-11-03T12:43:00.000-07:00
 draft: false
 aliases: [ "/2017/11/halloween-at-work.html" ]
 tags : [Fun, Work]
+categories: flections
 ---
 
 This year we had a Halloween competition between the 3 departments.  So naturally, myself and my manager are gung-ho for a competition.  We decided to do a witches coven.  Which worked out great because we had the decorations from last year so a lot of the pieces were reusable and applied to our theme.   

@@ -4,6 +4,7 @@ date: 2011-01-26T23:07:00.000-08:00
 draft: false
 aliases: [ "/2011/01/health-and-dieting.html" ]
 tags : [Health]
+categories: fitness
 ---
 
 In the back of my mind, I am constantly thinking about weight loss, health, dieting and all related aspects.  I have officially started to get my mind right as far as health is concerned. And have decided to set my self some goals. I have a list of things that I need to be finished with or close to finished with by June 30,  [2012](http://www.december212012.com/). Why June, you ask? Cause my birthday is July 8th and I will be 30 and it's before we all die...and refuse to not have these tasks completed by then.   

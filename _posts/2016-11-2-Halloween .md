@@ -4,6 +4,7 @@ date: 2016-11-02T10:24:00.001-07:00
 draft: false
 aliases: [ "/2016/11/halloween_2.html" ]
 tags : [Fun, Work]
+categories: flections
 ---
 
 Halloween is my absolute most favortie time of year.  I look forward to Halloween the year before the upcoming Halloween.  

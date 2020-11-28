@@ -4,6 +4,7 @@ date: 2011-02-28T23:52:00.000-08:00
 draft: false
 aliases: [ "/2011/02/jury-duty.html" ]
 tags : [Work]
+categories: flections
 ---
 
      I had a very stressful Monday morning. And came home VERY tired and feeling highly overworked. It started Sunday night, when someone called out sick, and the manager in charge at the time, couldn't figure out how to move the associates around to cover gaps. Or think to call someone in. Or leave a note, that certain associates were given approval to leave early, leaving the store with no afternoon help. I got the phone call, when I was off work, that there would be 1, ONE, schedule issue, that I quickly tried to cover. Why, though? Why, am I figuring out how to cover shifts, when you are an assistant manager, that has been one for years? Why, was there no thought process before I received the call? Why, didn't you tell me any of your ideas first? WHY, WHY, WHY? All of that before, I have even started my 5am Monday morning. The it all begins to fall slowly downhill, with this jury duty summons.  

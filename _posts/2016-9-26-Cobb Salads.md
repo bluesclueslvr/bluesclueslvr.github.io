@@ -4,6 +4,7 @@ date: 2016-09-26T23:18:00.002-07:00
 draft: false
 aliases: [ "/2016/09/cobb-salads.html" ]
 tags : [Food Prep]
+categories: food  
 ---
 
 This week 9/12-9/15 we had Cobb salads.  Which are simple to make, but the calories get high fast!  

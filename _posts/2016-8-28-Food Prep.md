@@ -4,6 +4,7 @@ date: 2016-08-28T12:11:00.004-07:00
 draft: false
 aliases: [ "/2016/08/food-prep.html" ]
 tags : [Food Prep]
+categories: food    
 ---
 
 I have been food prepping for a few years now.  It all started with Kaia Fit.  That program is big on prepping yourself with healthy food choices for the week, especially when you start to get busy and life gets in the way.  

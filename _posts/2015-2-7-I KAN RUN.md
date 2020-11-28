@@ -4,6 +4,7 @@ date: 2015-02-07T21:41:00.001-08:00
 draft: false
 aliases: [ "/2015/02/i-kan-run.html" ]
 tags : [Running]
+categories: fitness
 ---
 
 I am currently signed up for a program through Kaia, I Kan Run.  Which is a training program for running.  This is currently training for the Shamrock'n in March. This is a 10 week training to build up to the half marathon.  
